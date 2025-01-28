@@ -1,4 +1,4 @@
-# Billionaires---project
+# Billionaires
 Final project for the Business Analytics course - 14.01.2024
 
 With a simple research online, it is simple to discover the amount of billionaires in the world: based on 2022 statistics, we can see that 59,4 million people have more than one billion dollars in their bank, and this is equal to the 0,9% of the world population. At first impact, this amount is greater than expected, and this leads to some questions that probably every individual has asked himself once in his life, that are: how did those people accumulate such an amount of money? Do they have particular requisites? Or is it just the fruit of the received inheritance?
